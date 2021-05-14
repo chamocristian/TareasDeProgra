@@ -1,0 +1,35 @@
+#logo{
+ margin-left: 50px;
+}
+
+#Dos{
+color: rgb(255, 0, 0);
+font-size: 40px;
+margin-left: 700px;
+
+}
+#Uno {
+color: rgb(5, 5, 5);
+font-size: 25px;
+margin-left: 100px;
+background: rgb(255, 255, 255, 0.5);
+}
+#tres{
+  
+    height: 650px;
+    margin-left: 600px;
+    font-size: 650px;
+}
+ 
+body{
+    background-image: url(dos.jpg);
+    background-size: cover;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+
+}
+#Cuatro{
+    margin-left: 600px;
+    font-size: 425px;
+
+}
